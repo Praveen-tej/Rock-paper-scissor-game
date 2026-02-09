@@ -48,14 +48,12 @@ h3 {
   height: 50px;
 }
 
-
 .result {
   font-size: 22px;
   font-weight: bold;
   margin-top: 25px;
   color: #22c55e;
 }
-
 
 .moves {
   margin-top: 18px;
@@ -74,8 +72,8 @@ h3 {
   font-weight: 500;
 }
 
-
-.reset-button {
+.reset-button ,
+.auto-play{
   margin-top: 25px;
   padding: 10px 20px;
   font-size: 16px;
